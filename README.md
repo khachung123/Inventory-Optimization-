@@ -17,11 +17,7 @@ A portfolio case study linking retail demand forecasting with inventory policy d
 Source: [Retail Transactions and Stocks Data — Mendeley Data](https://data.mendeley.com/datasets/27x8mjm8k4/1)  
 DOI: `10.17632/27x8mjm8k4.1` · Licence: CC BY 4.0.
 
-Download:
-- `retail_sales_ml_apl.csv`
-- `retail_inventory_ml_apl.csv`
-
-Place both files in `data/raw/`. Raw data is excluded from Git because of file size and third-party licensing.
+Download `retail_sales_ml_apl.csv` and `retail_inventory_ml_apl.csv` from the source page and place them in `data/raw/`. Raw data is excluded from Git because of file size and third-party licensing.
 
 ## Quick start
 ```bash
